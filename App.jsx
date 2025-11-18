@@ -1,0 +1,1 @@
+import LocalMart from './LocalMart'; export default function App(){ return <LocalMart/> }
